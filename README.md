@@ -1,2 +1,1 @@
-# LearnHub2025
-Website
+LearnHub25
